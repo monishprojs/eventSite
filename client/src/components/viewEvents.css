@@ -1,0 +1,9 @@
+.sign {}
+
+.sign:hover {
+    background-color: lightgreen;
+}
+
+.event {
+    background-color: orange;
+}

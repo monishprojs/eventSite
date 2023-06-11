@@ -1,1 +1,1 @@
-# eventSite
+An event hosting application using React (frontend), ExpressJS (backend), and MongoDB database Implemented features allowing event creators to manage attendees, send messages to all attendees, and allow users to browse, register/unregister for events and communicate with hosts.
